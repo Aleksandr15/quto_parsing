@@ -7,23 +7,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     childprocess (3.0.0)
-    diff-lcs (1.4.4)
     json (2.3.1)
     rake (12.3.3)
     regexp_parser (1.8.2)
-    rspec (3.10.0)
-      rspec-core (~> 3.10.0)
-      rspec-expectations (~> 3.10.0)
-      rspec-mocks (~> 3.10.0)
-    rspec-core (3.10.0)
-      rspec-support (~> 3.10.0)
-    rspec-expectations (3.10.0)
-      diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.10.0)
-    rspec-mocks (3.10.0)
-      diff-lcs (>= 1.2.0, < 2.0)
-      rspec-support (~> 3.10.0)
-    rspec-support (3.10.0)
     rubyzip (2.3.0)
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
@@ -39,7 +25,6 @@ DEPENDENCIES
   json
   quto_parsing!
   rake (~> 12.0)
-  rspec (~> 3.0)
   watir
 
 BUNDLED WITH
