@@ -24,8 +24,19 @@ Or install it yourself as:
 
 ## Usage
 
-1) Clone this repository: git clone https://github.com/Aleksandr15/quto_parsing.git
-2) Go to the directory with the repository: cd quto_parsing
-3) Execute command: bundle install
-4) Run the parser
-Example: ruby prog.rb Renault Logan 
+1) Clone this repository: 
+
+git clone https://github.com/Aleksandr15/quto_parsing.git
+
+2) Go to the directory with the repository: 
+
+cd quto_parsing
+
+3) Execute command:
+
+bundle install
+
+4) Run the parser: 
+
+ruby prog.rb Renault Logan 
+
